@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android2DZ4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes">Заметки</string>
+    <string name="notes2">Поиск заметок</string>
+    <string name="button">+</string>
+    <string name="ok">готово</string>
+    <string name="grt">нужно сделать:</string>
+</resources>
